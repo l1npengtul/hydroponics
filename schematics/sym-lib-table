@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "atmega2560")(type "KiCad")(uri "${KIPRJMOD}/atmega2560.kicad_sym")(options "")(descr ""))
+)
